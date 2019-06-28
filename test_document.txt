@@ -1,4 +1,4 @@
-This is test document 
+this is fomal document
 to test git hub
 
 This line added in conflict branch to test merging
